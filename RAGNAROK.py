@@ -6,10 +6,8 @@ import os
 import random
 import string
 import datetime
-import flask 
 
-from keep_alive import keep_alive
-keep_alive()
+
 # insert your Telegram bot tokSasen here
 bot = telebot.TeleBot('7399367017:AAGNMrzq3FXrpyg-tIXwFx1qeVUrGsd8G-8')
 
